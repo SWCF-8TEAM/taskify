@@ -17,27 +17,27 @@
   <tr>
     <td align="center" width="200px">
       <a href="https://github.com/Nico1eKim" target="_blank">
-        <img src="https://github.com/SWCF-8TEAM/taskify/assets/144667455/393c7568-6250-48c8-936b-a2b446262a28" alt="나은 프로필" />
+        <img src="https://github.com/SWCF-8TEAM/taskify/assets/133554119/f491e398-b147-440d-97b2-23c1eff72720" alt="나은 프로필" />
       </a>
     </td>
     <td align="center" width="200px">
       <a href="https://github.com/wise-Ag" target="_blank">
-        <img src="https://github.com/SWCF-8TEAM/taskify/assets/144667455/675eb4df-2d46-43c5-970b-02ba61880a22" alt="지은 프로필" />
+        <img src="https://github.com/SWCF-8TEAM/taskify/assets/133554119/a3f6d1e3-fa84-4fa1-80a2-e676bf3e9984" alt="지은 프로필" />
       </a>
     </td>
     <td align="center" width="200px">
       <a href="https://github.com/hyeyoonS" target="_blank">
-        <img src="https://github.com/SWCF-8TEAM/taskify/assets/144667455/2c1e8cc8-279a-4d91-9ef0-28e6d04a6f9a" alt="혜윤 프로필" />
+        <img src="https://github.com/SWCF-8TEAM/taskify/assets/133554119/61b91b0b-9e04-4fe4-a769-9fb821a34116" alt="혜윤 프로필" />
       </a>
     </td>
     <td align="center" width="200px">
       <a href="https://github.com/olseul" target="_blank">
-        <img src="https://github.com/SWCF-8TEAM/taskify/assets/144667455/5fd65140-a129-4007-a6aa-7b0e60df26d0" alt="슬 프로필" />
+        <img src="https://github.com/SWCF-8TEAM/taskify/assets/133554119/472394c3-8f0b-481c-ac11-b7d00a260145" alt="슬 프로필" />
       </a>
     </td>
     <td align="center" width="200px">
       <a href="https://github.com/Jyophie" target="_blank">
-        <img src="https://github.com/SWCF-8TEAM/taskify/assets/144667455/b3c13145-987e-44ad-8849-6838110c400a" alt="소희 프로필" />
+        <img src="https://github.com/SWCF-8TEAM/taskify/assets/133554119/fa597f16-b835-4875-8c8a-31a5df610bfd" alt="소희 프로필" />
       </a>
     </td>
   </tr>
@@ -70,6 +70,19 @@
 </table>
 <br/>
 
+
+## 🔗 관련 링크
+
+
+### ✅ [배포 사이트 보러가기](https://with-plain.netlify.app/)
+
+### ✅ [노션 보러가기](https://efficient-router-b0b.notion.site/Part3-8-2370fbd6e700474b8f582c2c3b2f0075)
+
+### ✅ [JIRA 보러가기](https://jyophie.atlassian.net/jira/software/projects/SWCF/boards/2)
+
+<br/>
+
+
 ## 🧐 About 위드플랜
 
 https://github.com/SWCF-8TEAM/taskify/assets/133554119/619abe5e-30ed-4d07-9a14-efa3b33f2ad6
@@ -96,7 +109,6 @@ https://github.com/SWCF-8TEAM/taskify/assets/133554119/619abe5e-30ed-4d07-9a14-e
 
 ### ✅ 개발 기간 : 2023년 12월 18일(월) ~ 2024년 01월 04일(목)
 
-### ✅ [배포 사이트 보러가기](https://with-plain.netlify.app/)
 
 <br/>
 
@@ -181,7 +193,7 @@ https://github.com/SWCF-8TEAM/taskify/assets/133554119/619abe5e-30ed-4d07-9a14-e
 
 <br/>
 
-## 💖 팀원들의 소감 한 마디
+## 💖 팀원들의 소감 한 마디 (TBU)
 
 - 나은
 - 지은
